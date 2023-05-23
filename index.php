@@ -63,9 +63,6 @@ if (isset($_POST['login'])) {
       <div class="row">
         <div class="col-md-6 side-image">
           <!----Image--->
-          <div class="text">
-            <p>Join Us</p>
-          </div>
         </div>
         <div class="col-md-6 right">
           <div class="input-box">
